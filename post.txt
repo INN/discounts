@@ -1,0 +1,8 @@
+The Institute for Nonprofit News maintains this list of free and discounted tech tools for nonprofit news organizations. If you know of any others we should add or have updated information, please <a href="/contact/">contact us</a> with the details and we'll add it to the list. (last updated: May 2016)
+<div id="table-iframe-container"></div>
+<script src="https://pym.nprapps.org/pym.v1.min.js"></script>
+<script type="text/javascript">
+(function() {
+  var pymParent = new pym.Parent('table-iframe-container', 'https://nerds.inn.org/wp-content/uploads/static/discounts/index.html', {});
+}());
+</script>

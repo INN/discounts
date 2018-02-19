@@ -3,6 +3,6 @@ The Institute for Nonprofit News maintains this list of free and discounted tec
 <script src="https://pym.nprapps.org/pym.v1.min.js"></script>
 <script type="text/javascript">
 (function() {
-  var pymParent = new pym.Parent('table-iframe-container', 'https://nerds.inn.org/wp-content/uploads/static/discounts/index.html', {});
+  var pymParent = new pym.Parent('table-iframe-container', 'https://labs.inn.org/wp-content/uploads/static/discounts/index.html', {});
 }());
 </script>
